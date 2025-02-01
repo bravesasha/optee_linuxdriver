@@ -20,7 +20,7 @@ and [LSK 4.4](https://git.linaro.org/kernel/linux-linaro-stable.git/shortlog/ref
 for those that would like to use an older kernel.
 
 Another important patch that has been mainlined and is needed on older kernels
-is the ARM SMCCC patch that could be found here: [14457459f9ca2ff8521686168ea179edc3a56a44] (https://github.com/torvalds/linux/commit/14457459f9ca2ff8521686168ea179edc3a56a44)
+is the ARM SMCCC patch that could be found here: [14457459f9ca2ff8521686168ea179edc3a56a44](https://github.com/torvalds/linux/commit/14457459f9ca2ff8521686168ea179edc3a56a44)
 
 # Description
 The optee_linuxdriver git, containing the source code for the TEE driver 
